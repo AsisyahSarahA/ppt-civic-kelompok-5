@@ -1,0 +1,6 @@
+{
+  "name": "Wawasan Nusantara: Laut yang Menyatukan, Hukum yang Meneguhkan",
+  "description": "Presentasi interaktif HD Wawasan Nusantara dengan nuansa laut maritim, animasi ombak realistis, audio deburan laut, ornamen batik kontemporer, dan mode siang/malam otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
